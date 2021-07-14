@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.4.90](https://github.com/kunalnagarco/react-component-library/compare/v3.4.89...v3.4.90) (2021-07-14)
+
+
+### Chores
+
+* **deps:** update dependency standard-version to v9.3.1 ([ed3f3f5](https://github.com/kunalnagarco/react-component-library/commit/ed3f3f5687a1a2ff5d8133a608ac740daf1ac265))
+
 ### [3.4.89](https://github.com/kunalnagarco/react-component-library/compare/v3.4.88...v3.4.89) (2021-07-14)
 
 
