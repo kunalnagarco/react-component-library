@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.4.94](https://github.com/kunalnagarco/react-component-library/compare/v3.4.93...v3.4.94) (2021-07-16)
+
+
+### Chores
+
+* **deps:** update dependency @rollup/plugin-node-resolve to v13.0.2 ([5787cc0](https://github.com/kunalnagarco/react-component-library/commit/5787cc0a1e80e5dd5c2fbe3c491eecf501992d15))
+
 ### [3.4.93](https://github.com/kunalnagarco/react-component-library/compare/v3.4.92...v3.4.93) (2021-07-15)
 
 
