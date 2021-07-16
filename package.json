@@ -68,7 +68,7 @@
     "@brainhubeu/react-carousel": "2.0.4",
     "@kunalnagarco/eslint-config": "0.1.26",
     "@rollup/plugin-json": "4.1.0",
-    "@rollup/plugin-node-resolve": "13.0.1",
+    "@rollup/plugin-node-resolve": "13.0.2",
     "@rollup/plugin-url": "6.0.0",
     "@semantic-release/changelog": "5.0.1",
     "@semantic-release/commit-analyzer": "8.0.1",
