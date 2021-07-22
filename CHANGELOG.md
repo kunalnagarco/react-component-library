@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.4.105](https://github.com/kunalnagarco/react-component-library/compare/v3.4.104...v3.4.105) (2021-07-22)
+
+
+### Chores
+
+* **deps:** update dependency lint-staged to v11.1.0 ([b5eab79](https://github.com/kunalnagarco/react-component-library/commit/b5eab79b8f9d18e862eb1977373d9c7185a9d707))
+
 ### [3.4.104](https://github.com/kunalnagarco/react-component-library/compare/v3.4.103...v3.4.104) (2021-07-21)
 
 
