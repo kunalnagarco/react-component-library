@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.4.119](https://github.com/kunalnagarco/react-component-library/compare/v3.4.118...v3.4.119) (2021-07-26)
+
+
+### Chores
+
+* **deps:** update dependency @typescript-eslint/parser to v4.28.5 ([a50ca86](https://github.com/kunalnagarco/react-component-library/commit/a50ca8611eac3caab0056ed6c6996a3580416d4e))
+
 ### [3.4.118](https://github.com/kunalnagarco/react-component-library/compare/v3.4.117...v3.4.118) (2021-07-26)
 
 
