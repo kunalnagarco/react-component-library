@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.4.120](https://github.com/kunalnagarco/react-component-library/compare/v3.4.119...v3.4.120) (2021-07-26)
+
+
+### Chores
+
+* **deps:** update dependency @rollup/plugin-url to v6.1.0 ([0d4ebe4](https://github.com/kunalnagarco/react-component-library/commit/0d4ebe434ba3fab0754de706610af3f7926b1d12))
+
 ### [3.4.119](https://github.com/kunalnagarco/react-component-library/compare/v3.4.118...v3.4.119) (2021-07-26)
 
 
