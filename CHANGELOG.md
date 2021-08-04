@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.4.137](https://github.com/kunalnagarco/react-component-library/compare/v3.4.136...v3.4.137) (2021-08-04)
+
+
+### Chores
+
+* **deps:** update babel monorepo to v7.15.0 ([151cae1](https://github.com/kunalnagarco/react-component-library/commit/151cae1982b4d80d2a204bca68c4fa5a1ea1190b))
+
 ### [3.4.136](https://github.com/kunalnagarco/react-component-library/compare/v3.4.135...v3.4.136) (2021-08-04)
 
 
