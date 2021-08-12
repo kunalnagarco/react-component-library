@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.4.155](https://github.com/kunalnagarco/react-component-library/compare/v3.4.154...v3.4.155) (2021-08-12)
+
+
+### Chores
+
+* **deps:** update dependency rollup-plugin-postcss to v4.0.1 ([fa594d1](https://github.com/kunalnagarco/react-component-library/commit/fa594d134cfecfb1d7b3dfae44718c911a581c4c))
+
 ### [3.4.154](https://github.com/kunalnagarco/react-component-library/compare/v3.4.153...v3.4.154) (2021-08-11)
 
 
