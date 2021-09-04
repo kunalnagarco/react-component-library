@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.4.183](https://github.com/kunalnagarco/react-component-library/compare/v3.4.182...v3.4.183) (2021-09-04)
+
+
+### Chores
+
+* **deps:** update dependency @storybook/addon-knobs to v6.3.1 ([fcea782](https://github.com/kunalnagarco/react-component-library/commit/fcea7825d484bda3601872daa9d8ca576fc346f8))
+
 ### [3.4.182](https://github.com/kunalnagarco/react-component-library/compare/v3.4.181...v3.4.182) (2021-09-04)
 
 
