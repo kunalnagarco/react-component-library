@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.4.182](https://github.com/kunalnagarco/react-component-library/compare/v3.4.181...v3.4.182) (2021-09-04)
+
+
+### Chores
+
+* **deps:** update dependency @types/styled-components to v5.1.14 ([a11837d](https://github.com/kunalnagarco/react-component-library/commit/a11837dbcbec5373078e8a51724a264391d75f95))
+
 ### [3.4.181](https://github.com/kunalnagarco/react-component-library/compare/v3.4.180...v3.4.181) (2021-09-04)
 
 
