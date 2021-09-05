@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.4.184](https://github.com/kunalnagarco/react-component-library/compare/v3.4.183...v3.4.184) (2021-09-05)
+
+
+### Chores
+
+* **deps:** update dependency @semantic-release/git to v9.0.1 ([42bf000](https://github.com/kunalnagarco/react-component-library/commit/42bf0005b3e538845dad3ae0a71c188d64112846))
+
 ### [3.4.183](https://github.com/kunalnagarco/react-component-library/compare/v3.4.182...v3.4.183) (2021-09-04)
 
 
