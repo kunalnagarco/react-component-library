@@ -1,5 +1,22 @@
 # Changelog
 
+## [3.5.0](https://github.com/kunalnagarco/react-component-library/compare/v3.4.196...v3.5.0) (2021-09-11)
+
+
+### Features
+
+* Storybook Upgrade ([5ad087a](https://github.com/kunalnagarco/react-component-library/commit/5ad087a9fd5106fad4b0e39732b8e9d0112ae808))
+
+
+### Bug Fixes
+
+* Upgrade Storybook ([6025583](https://github.com/kunalnagarco/react-component-library/commit/60255838ec483068ddd5d3294abd237c5ea739d0))
+
+
+### Chores
+
+* Cleanup ([#139](https://github.com/kunalnagarco/react-component-library/issues/139)) ([b5e9ed3](https://github.com/kunalnagarco/react-component-library/commit/b5e9ed3e80ae33a583ec4e587cd2ea2e77b0a0fa))
+
 ### [3.4.196](https://github.com/kunalnagarco/react-component-library/compare/v3.4.195...v3.4.196) (2021-09-11)
 
 
