@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.4.191](https://github.com/kunalnagarco/react-component-library/compare/v3.4.190...v3.4.191) (2021-09-11)
+
+
+### Chores
+
+* **deps:** update dependency node-fetch to v2.6.2 ([fe4adc1](https://github.com/kunalnagarco/react-component-library/commit/fe4adc1f283206d61ec8164a56267ce34a38b988))
+
 ### [3.4.190](https://github.com/kunalnagarco/react-component-library/compare/v3.4.189...v3.4.190) (2021-09-11)
 
 
