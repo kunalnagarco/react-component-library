@@ -8,6 +8,7 @@ module.exports = {
     '@storybook/addon-links',
     '@storybook/addon-a11y',
     '@storybook/addon-knobs',
+    '@storybook/addon-measure'
   ],
   typescript: {
     reactDocgen: 'react-docgen', // https://github.com/styleguidist/react-docgen-typescript/issues/356#issuecomment-857887751
