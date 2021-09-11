@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.4.196](https://github.com/kunalnagarco/react-component-library/compare/v3.4.195...v3.4.196) (2021-09-11)
+
+
+### Chores
+
+* **deps:** update dependency prettier to v2.4.0 ([ae67eba](https://github.com/kunalnagarco/react-component-library/commit/ae67eba5d8da341fa1abedec74598aaad82654b1))
+
 ### [3.4.195](https://github.com/kunalnagarco/react-component-library/compare/v3.4.194...v3.4.195) (2021-09-11)
 
 
