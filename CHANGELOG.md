@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.5.1](https://github.com/kunalnagarco/react-component-library/compare/v3.5.0...v3.5.1) (2021-09-11)
+
+
+### Chores
+
+* **deps:** pin dependency @storybook/addon-measure to 6.4.0-alpha.27 ([ab79506](https://github.com/kunalnagarco/react-component-library/commit/ab79506e4ea43786a986714a442f3ae47fdebf5b))
+
 ## [3.5.0](https://github.com/kunalnagarco/react-component-library/compare/v3.4.196...v3.5.0) (2021-09-11)
 
 
