@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.5.2](https://github.com/kunalnagarco/react-component-library/compare/v3.5.1...v3.5.2) (2021-09-11)
+
+
+### Chores
+
+* **deps:** update dependency sort-package-json to v1.51.0 ([ce270cd](https://github.com/kunalnagarco/react-component-library/commit/ce270cd6c8f4220f301e4698e3dc1c76c07032a3))
+
 ### [3.5.1](https://github.com/kunalnagarco/react-component-library/compare/v3.5.0...v3.5.1) (2021-09-11)
 
 
