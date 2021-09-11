@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.4.192](https://github.com/kunalnagarco/react-component-library/compare/v3.4.191...v3.4.192) (2021-09-11)
+
+
+### Chores
+
+* **deps:** update dependency typescript to v4.4.3 ([6a9d70d](https://github.com/kunalnagarco/react-component-library/commit/6a9d70dc569fd7d84365f12f123188a6e4a50c03))
+
 ### [3.4.191](https://github.com/kunalnagarco/react-component-library/compare/v3.4.190...v3.4.191) (2021-09-11)
 
 
