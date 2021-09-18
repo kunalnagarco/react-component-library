@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.5.5](https://github.com/kunalnagarco/react-component-library/compare/v3.5.4...v3.5.5) (2021-09-18)
+
+
+### Chores
+
+* **deps:** update dependency prismjs to v1.25.0 ([db48bbb](https://github.com/kunalnagarco/react-component-library/commit/db48bbbd80cf277241f48365781dfdf0ed1d5fb0))
+
 ### [3.5.4](https://github.com/kunalnagarco/react-component-library/compare/v3.5.3...v3.5.4) (2021-09-14)
 
 
